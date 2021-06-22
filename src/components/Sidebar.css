@@ -1,0 +1,16 @@
+.sidebar{
+    height: calc(100vh - 120px);
+    width: 180px;
+    position: fixed;
+    top: 160;
+    left: 0;
+    bottom: 0;
+    background: #049C9C;
+    color: white;
+    padding: 15px 0px;
+    overflow: hidden;
+}
+
+.sidebar hr{
+    margin: 10px 10px 0px;
+}

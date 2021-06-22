@@ -1,0 +1,29 @@
+.sidebardetail{
+    width: 100%;
+    height: 42px;
+    color: white;
+    padding-top: 16px;
+}
+
+.sidebardetail:hover{
+    background-color: #2E6773;
+}
+
+.sidebardetail .content .link:hover{
+    color: orange;
+    transition-duration: 0.5s;
+}
+
+.sidebardetail .content{
+    margin-left: 20px;
+}
+
+.sidebardetail .content .link{
+    text-decoration: none;
+    color: white;
+}
+
+.sidebardetail .content .link div{
+    display: flex;
+    align-items: center;
+}
